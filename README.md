@@ -24,7 +24,17 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 
 ### Chapter 3: Identifiers & Literals (`chapter_03_Identifiers_Literals/`)
 
-Coming soon.
+| File | Topic |
+|------|-------|
+| `09_var let const.js` | `var`, `let`, `const` — redeclaration, reassignment, and block scope differences |
+| `10_Functions.js` | Basic function declaration and invocation |
+| `11_var explanation.js` | `var` behavior inside blocks vs functions |
+| `12_let explaination.js` | `let` block scoping |
+| `13_const explaination.js` | `const` block scoping |
+| `14_functionscope.js` | `var` function scoping |
+| `15_let functionscope.js` | `let` function scoping |
+| `16_Hoisting.js` | Hoisting behavior with `var`, `let`, and `const` |
+| `17_Hosting Funtion.js` | Function expression hoisting with `var`, `let`, `const` |
 
 ## Topics Covered
 
@@ -36,6 +46,10 @@ Coming soon.
 - Identifier naming rules and conventions
 - Comments in JavaScript
 - Keyboard shortcuts for VS Code and Windows
+- `var`, `let`, `const` differences
+- Function declaration
+- Variable and function scoping
+- Hoisting
 
 ## Prerequisites
 
