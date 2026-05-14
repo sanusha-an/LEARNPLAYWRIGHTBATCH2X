@@ -22,7 +22,7 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `07_Identifiers_Case.js` | Naming conventions: camelCase, PascalCase, snake_case, UPPER_SNAKE_CASE, kebab-case, Hungarian Notation, and more |
 | `08_Comments_Shortcut.js` | Single-line (`//`) and multi-line (`/* */`) comments, VS Code shortcuts, Windows shortcuts |
 
-### Chapter 3: Identifiers & Literals (`chapter_03_Identifiers_Literals/`)
+### Chapter 3: Identifiers (`chapter_03_Identifiers/`)
 
 | File | Topic |
 |------|-------|
@@ -35,6 +35,23 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `15_let functionscope.js` | `let` function scoping |
 | `16_Hoisting.js` | Hoisting behavior with `var`, `let`, and `const` |
 | `17_Hosting Funtion.js` | Function expression hoisting with `var`, `let`, `const` |
+| `18_let hosting.js` | `let` Temporal Dead Zone (TDZ) — error when accessing before declaration |
+| `19_let hosting block.js` | `let` TDZ inside functions and blocks |
+| `20_const hosting.js` | `const` Temporal Dead Zone (TDZ) — error when accessing before declaration |
+| `21_Junior QA.js` | Common `console.log` mistake new QA makes during recording |
+
+### Chapter 4: Literals (`chapter_04_Literals/`)
+
+| File | Topic |
+|------|-------|
+| `22_literals.js` | Overview of all literal types: string, number, BigInt, boolean, null, undefined, object, array, function, RegExp |
+| `23_null_undefined.js` | `null` vs `undefined` — key differences with `typeof`, loose/strict equality, and practical `greet()` example |
+| `24_null.js` | Quick comparison of `null` vs `undefined` with `typeof` and equality checks |
+| `25_All literals.js` | Examples of string, number, BigInt, hex, binary, octal, and base64 literals |
+| `26_Literal_Number_all.js` | All number types: integer, float, hex, octal, binary, exponential, BigInt, Infinity, NaN, Number constants, underscore separators |
+| `27_string.js` | Single quotes, double quotes, and backticks for string declaration |
+| `28_Template Literals.js` | Template literals with `${}` interpolation for dynamic strings, URLs, and XPath locators |
+| `29_Backtick_single_double.js` | Difference between backtick (template literal with `${}`) vs single/double quotes |
 
 ## Topics Covered
 
@@ -49,7 +66,12 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - `var`, `let`, `const` differences
 - Function declaration
 - Variable and function scoping
-- Hoisting
+- Hoisting and Temporal Dead Zone (TDZ)
+- All literal types (string, number, BigInt, boolean, null, undefined, object, array, function, RegExp)
+- `null` vs `undefined`
+- Number systems (decimal, hex, octal, binary, exponential, BigInt)
+- Template literals and string interpolation
+- Single quotes vs double quotes vs backticks
 
 ## Prerequisites
 
