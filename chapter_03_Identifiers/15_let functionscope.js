@@ -1,4 +1,4 @@
-//let is a function-scoped variable
+//let is a blocked-scoped variable
 //example
 let x = 5;
 if (true) {
