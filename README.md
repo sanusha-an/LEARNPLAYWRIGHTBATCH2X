@@ -128,6 +128,7 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `80_IQ.js` | `do-while` with zero iterations |
 | `81_IQ.js` | `continue` in `for` loop |
 | `82_IQ.js` | `do-while` vs `while` behavior when condition fails |
+| `Task 22th May.js` | Triangle classifier & FizzBuzz with `for` loop |
 
 ## Topics Covered
 
