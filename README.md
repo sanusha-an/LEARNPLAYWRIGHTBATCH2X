@@ -102,6 +102,7 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `65_IQ2 switch.js` | Case order matters in switch execution |
 | `66_IQ3 switch.js` | Duplicate case labels (uses first match) |
 | `67_IQ4 switch.js` | Strict comparison (`===`) in switch |
+| `Task 20 May.js` | `switch(true)` patterns: HTTP status categorization, test verdict, bug severity, build health, login lockout |
 
 ### Chapter 9: User Input (`chapter_09_user input/`)
 
