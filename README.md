@@ -76,6 +76,41 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `47_advance IQ.js` | Advanced prefix increment expression (`++a + ++a`) |
 | `Task_18 Operators` | Max of 2/3 numbers via ternary operator & increment puzzle (`a++ + ++a - --a + a-- + ++a`) |
 
+### Chapter 7: Conditional Statements — if/else (`chapter_07_loops/`)
+
+| File | Topic |
+|------|-------|
+| `48_if_else.js` | Basic if-else for voting age check |
+| `49_else_if_else.js` | else-if ladder for score grading |
+| `50_realtime_ifelse.js` | Nested if-else for role-based permissions |
+| `51_API_if else.js` | API status code checking with else-if |
+| `52_IQ_if else.js` | Truthy/falsy values in `if` conditions |
+| `53_if else realtime.js` | Login auth with multiple conditions (`&&`) |
+| `54_IQ if else.js` | Simple `if` without braces |
+| `55_IQ2 if else.js` | Empty `if` block |
+
+### Chapter 8: Switch Statements (`chapter_08_switch statements.js/`)
+
+| File | Topic |
+|------|-------|
+| `59_switch.js` | Basic `switch` with `break` for days |
+| `60_no break.js` | Fall-through behavior without `break` |
+| `61_default.js` | `default` case for unmatched values |
+| `62_realtime switch.js` | Real-time switch for API status codes |
+| `63_switch group.js` | Grouping multiple cases together |
+| `64_IQ switch.js` | Fall-through with missing `break` statements |
+| `65_IQ2 switch.js` | Case order matters in switch execution |
+| `66_IQ3 switch.js` | Duplicate case labels (uses first match) |
+| `67_IQ4 switch.js` | Strict comparison (`===`) in switch |
+
+### Chapter 9: User Input (`chapter_09_user input/`)
+
+| File | Topic |
+|------|-------|
+| `68_user input.js` | `prompt()` for user input |
+| `69_node readline.js` | `readline` module for CLI input |
+| `70_prompt sync.js` | `prompt-sync` package for synchronous input |
+
 ## Topics Covered
 
 - `console.log()` output
@@ -103,6 +138,12 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - `typeof` operator
 - Prefix vs postfix increment/decrement
 - Nullish coalescing operator (`??`)
+- `if`, `else if`, `else` conditional statements
+- Nested conditionals and logical operators in conditions
+- Truthy and falsy values in conditionals
+- `switch` statement with `break` and fall-through
+- `switch` grouping, default case, and strict comparison
+- User input via `prompt()`, `readline`, and `prompt-sync`
 
 ## Prerequisites
 
