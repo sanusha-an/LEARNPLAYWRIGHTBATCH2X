@@ -74,6 +74,7 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `44_Null operator.js` | Nullish coalescing operator (`??`) |
 | `45_IQ_Inc Dec.js` | Interview question on postfix increment |
 | `47_advance IQ.js` | Advanced prefix increment expression (`++a + ++a`) |
+| `Task_18 Operators` | Max of 2/3 numbers via ternary operator & increment puzzle (`a++ + ++a - --a + a-- + ++a`) |
 
 ## Topics Covered
 

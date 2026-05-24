@@ -1,0 +1,30 @@
+/* Maximum number between two numbers, okay, by using the ternary operator 
+And Maximum between the three numbers by using ternary operator 
+Upload your solution to the GitHub profile also. 
+solve 
+let a = 5; 
+console.log(a++ + ++a - --a + a-- + ++a); 
+console.log(a); */
+
+/* let a = 500;
+let b = 200;
+maximum = a > b ? `${a} is maximum` : `${b} is maximum`;
+console.log(maximum);
+ */
+
+/* let a = 5000;
+let b = 8000;
+let c = 70000;
+maximum = (a>b && a>c) ? `${a} is maximum` : 
+          (b>c && b>a) ? `${b} is maximum`  : `${c} is maximum`;
+console.log(maximum); */
+
+
+let a = 5; 
+console.log(a++ + ++a - --a + a-- + ++a); 
+console.log(a);
+
+/* (valueUsed=5,a=6) + (vu=7,a=7) - (vu=6,a=6) + (vu=6,a=5) + (vu=6,a=6)
+     (5) + (7) - (6) + (6) + (6) 
+      (24) - (6) = 18
+        so, VU = 18 and a = 6 */
