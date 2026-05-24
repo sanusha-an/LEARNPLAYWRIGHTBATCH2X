@@ -112,6 +112,23 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `69_node readline.js` | `readline` module for CLI input |
 | `70_prompt sync.js` | `prompt-sync` package for synchronous input |
 
+### Chapter 10: Loops (`chapter_10_loops/`)
+
+| File | Topic |
+|------|-------|
+| `71_For loop.js` | Introduction: why loops are needed vs manual repetition |
+| `72_For_loop.js` | Basic `for` loop with `<` vs `<=` |
+| `73_For loop.js` | Custom variable names in `for` loop |
+| `74_IQ.js` | `for` loop with `if-else` condition inside |
+| `75_For_OF_IN_EACH.js` | Placeholder: `for...of`, `for...in`, `forEach` (covered with arrays) |
+| `76_while loop.js` | `while` loop with attempt counter |
+| `77_Do_While.js` | `do-while` — executes at least once |
+| `78_Do_While.js` | `do-while` retry pattern |
+| `79_IQ.js` | `while` loop counting down |
+| `80_IQ.js` | `do-while` with zero iterations |
+| `81_IQ.js` | `continue` in `for` loop |
+| `82_IQ.js` | `do-while` vs `while` behavior when condition fails |
+
 ## Topics Covered
 
 - `console.log()` output
@@ -145,6 +162,11 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - `switch` statement with `break` and fall-through
 - `switch` grouping, default case, and strict comparison
 - User input via `prompt()`, `readline`, and `prompt-sync`
+- `for` loop syntax, initialization, condition, increment
+- `while` loop with counter
+- `do-while` loop (executes at least once)
+- `continue` statement in loops
+- Loop behavior with different conditions
 
 ## Prerequisites
 
