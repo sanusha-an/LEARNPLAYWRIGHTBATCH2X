@@ -130,6 +130,20 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `82_IQ.js` | `do-while` vs `while` behavior when condition fails |
 | `Task 22th May.js` | Triangle classifier & FizzBuzz with `for` loop |
 
+### Chapter 11: Arrays (`chapter_11_Arrays/`)
+
+| File | Topic |
+|------|-------|
+| `83_Arrays.js` | Array basics: length, index, mixed types |
+| `84_creating arrays.js` | Creating arrays: literal, constructor, `Array.of()`, `Array.from()` |
+| `85_accessing_array.js` | Accessing by index, `.at()`, modifying elements |
+| `86_Arrays_Adding_Remove.js` | Adding/removing: `push`, `pop`, `unshift`, `shift` |
+| `87_Adding_Remove2.js` | `splice` — add, remove, replace elements |
+| `88_REAL_Example.js` | Real-world browser list with `for` loop |
+| `89_Searching.js` | Searching: `indexOf`, `lastIndexOf`, `includes`, `find`, `findIndex`, `findLast`, `findLastIndex` |
+| `90_Iterate.js` | Iterating: `for`, `for...of`, `forEach`, `for...in`, `.entries()` |
+| `91_Transform_Array.js` | Transforming: `map`, `filter`, `reduce`, `flat` |
+
 ## Topics Covered
 
 - `console.log()` output
@@ -168,6 +182,11 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - `do-while` loop (executes at least once)
 - `continue` statement in loops
 - Loop behavior with different conditions
+- Array creation, access, and modification
+- `push`, `pop`, `unshift`, `shift`, `splice`
+- Array searching: `indexOf`, `includes`, `find`, `findIndex`
+- Array iteration: `for`, `for...of`, `forEach`, `for...in`, `.entries()`
+- Array transformation: `map`, `filter`, `reduce`, `flat`
 
 ## Prerequisites
 
