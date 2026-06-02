@@ -171,7 +171,21 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `100_Type4_Fn_With_Param_With_Return.js` | Type 4: With parameter, with return value |
 | `101_Template_literal.js` | Function returning a template literal string |
 | `102_Fn_Expression.js` | Function expression (anonymous function assigned to variable) |
-| `103_Arrow_Fn.js` | Arrow function syntax (ES6) |
+| `103_Arrow_Fn.js` | Arrow function syntax (ES6) with regular vs arrow comparison |
+| `104_Arrow_Fn_REAL.js` | Real-world arrow function: status code validation |
+| `105_IIFE.js` | Immediately Invoked Function Expression (IIFE) |
+| `106_Default_Param_Fn.js` | Default parameters in functions (test retry config) |
+| `107_IQ.js` | Function with multiple parameters returning template literal |
+| `108_Rest_Param_Fn.js` | Rest parameter (`...results`) for variable arguments |
+| `109_IQ.js` | Refactoring if-else status codes to arrow functions |
+| `110_Spead_IQ.js` | Spread operator (`...`) with function arguments |
+| `111_Scope._Fn.js` | Global vs local scope in functions |
+| `112_IQ.js` | Nested function scope (lexical scoping) |
+| `113_Closure.js` | Closure basics: `makeCounter` with `increment`/`getCount` |
+| `114_Closure.js` | Closure: private state with `increment`/`getCount` |
+| `115_API_REAL_Closure.js` | Real-world closure: retry tracker with `tryAgain` |
+| `116_Higher_Order_Fn.js` | Higher-order function: `runWithLoggin` |
+| `117_Pure_Fn.js` | Pure functions (empty) |
 
 ## Topics Covered
 
@@ -222,7 +236,14 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - `Array.isArray`, `every`, `some`
 - Function types: no param/no return, with param/no return, no param/with return, with param/with return
 - Function expressions (anonymous functions)
-- Arrow functions (ES6 syntax)
+- Arrow functions (ES6 syntax) with real-world examples
+- Immediately Invoked Function Expressions (IIFE)
+- Default parameters in functions
+- Rest parameters (`...`) for variable arguments
+- Spread operator (`...`) with function arguments
+- Global vs local scope (lexical scoping)
+- Closures: private state with counters and retry trackers
+- Higher-order functions
 
 ## Prerequisites
 
