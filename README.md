@@ -4,6 +4,18 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 
 ## Chapters
 
+- [Chapter 1: Basics](#chapter-1-basics-chapter_01_basics)
+- [Chapter 2: JavaScript Concepts](#chapter-2-javascript-concepts-chapter_02_javascripts_concepts)
+- [Chapter 3: Identifiers](#chapter-3-identifiers-chapter_03_identifiers)
+- [Chapter 4: Literals](#chapter-4-literals-chapter_04_literals)
+- [Chapter 6: Operators](#chapter-6-operators-chapter_06_operators)
+- [Chapter 7: Conditional Statements — if/else](#chapter-7-conditional-statements--ifelse-chapter_07_loops)
+- [Chapter 8: Switch Statements](#chapter-8-switch-statements-chapter_08_switch_statementsjs)
+- [Chapter 9: User Input](#chapter-9-user-input-chapter_09_user-input)
+- [Chapter 10: Loops](#chapter-10-loops-chapter_10_loops)
+- [Chapter 11: Arrays](#chapter-11-arrays-chapter_11_arrays)
+- [Chapter 12: Functions](#chapter-12-functions-chapter_12_funtions)
+
 ### Chapter 1: Basics (`chapter_01_Basics/`)
 
 | File | Topic |
