@@ -143,6 +143,23 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 | `89_Searching.js` | Searching: `indexOf`, `lastIndexOf`, `includes`, `find`, `findIndex`, `findLast`, `findLastIndex` |
 | `90_Iterate.js` | Iterating: `for`, `for...of`, `forEach`, `for...in`, `.entries()` |
 | `91_Transform_Array.js` | Transforming: `map`, `filter`, `reduce`, `flat` |
+| `92_Arrays.js` | Sorting: lexicographic vs numeric (`sort` with comparator) |
+| `93_Array_Slicing.js` | `slice` (non-mutating) vs `splice` (mutating) |
+| `94_Concat_array.js` | Concatenating: `concat`, spread (`...`), `join` |
+| `95_Array_Checking.js` | Checking: `Array.isArray`, `every`, `some` |
+
+### Chapter 12: Functions (`chapter_12_Funtions/`)
+
+| File | Topic |
+|------|-------|
+| `96_Functions.js.js` | Basic function definition and invocation |
+| `97_Type1_Fn_Basic_Functions.js` | Type 1: No parameter, no return value |
+| `98_Type2_Fn_With_Param_No_Return.js` | Type 2: With parameter, no return value |
+| `99_Type3_Fn_without_Param_Return.js` | Type 3: No parameter, with return value |
+| `100_Type4_Fn_With_Param_With_Return.js` | Type 4: With parameter, with return value |
+| `101_Template_literal.js` | Function returning a template literal string |
+| `102_Fn_Expression.js` | Function expression (anonymous function assigned to variable) |
+| `103_Arrow_Fn.js` | Arrow function syntax (ES6) |
 
 ## Topics Covered
 
@@ -187,6 +204,13 @@ A learning repository for Playwright automation testing with JavaScript. Covers 
 - Array searching: `indexOf`, `includes`, `find`, `findIndex`
 - Array iteration: `for`, `for...of`, `forEach`, `for...in`, `.entries()`
 - Array transformation: `map`, `filter`, `reduce`, `flat`
+- Array sorting: lexicographic vs numeric with comparator
+- `slice` vs `splice`
+- `concat`, spread operator, `join`
+- `Array.isArray`, `every`, `some`
+- Function types: no param/no return, with param/no return, no param/with return, with param/with return
+- Function expressions (anonymous functions)
+- Arrow functions (ES6 syntax)
 
 ## Prerequisites
 
